@@ -124,9 +124,17 @@ body {
 }
 .header .container .button-block button:nth-child(1){
     background-color: #26bba5;
+    transition: .4s;
+}
+.header .container .button-block button:nth-child(1):hover{
+    background-color: #6174ff;
 }
 .header .container .button-block button:nth-child(2) {
     background-color: #6174ff;
+    transition: .4s;
+}
+.header .container .button-block button:nth-child(2):hover {
+    background-color: #26bba5;
 }
 .header .container .button-block button a {
     text-decoration: none;
@@ -338,9 +346,17 @@ body {
 }
 .download .container .button-block button:nth-child(1){
     background-color: #26bba5;
+    transition: .4s;
+}
+.download .container .button-block button:nth-child(1):hover{
+    background-color: #6174ff;
 }
 .download .container .button-block button:nth-child(2) {
     background-color: #6174ff;
+    transition: .4s;
+}
+.download .container .button-block button:nth-child(2):hover {
+    background-color: #26bba5;
 }
 .download .container .button-block button a {
     text-decoration: none;
